@@ -4,7 +4,7 @@
 <p align=”center”>
 <body background="hope.jpg" , background-size:"100%">
 <font face="times new roman" size="5">
-<br><a href="https://mantle-hope.herokuapp.com/">HOME</a>
+<br><center><a href="https://mantle-hope.herokuapp.com/">HOME</a></center>
 <br><b>________________________________________________________________________________________________________________</b>
 </font>
 <h1 align="center">
