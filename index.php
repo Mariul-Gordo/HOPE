@@ -15,9 +15,9 @@
 <p align="center">
 <img src="lighthouse.jpg" width ="200", length ="100">
 </center>
-<p>
 <p align="center">
 <p><center><video width="500" height="300" controls><source src="HOPE VIDEO.mp4" type="video/mp4"></video></center>
+<br><center><a href="https://www.youtube.com/watch?v=Nothu7nkIts&feature=share">If you want to watch the full clip just click this</a></center>
 <p><font face="verdana" size="3", color="black">
 <p align="center"><b>"Only in the darkness can you see stars" A quote from the legendary speaker Martin Luther King Jr. tells us that hope is realized in our darkest hours, and when we fall to the ground, we can choose whether or not, to get back up and stand through all the pain.
 Yes... there will be times of trouble.Yes, there will be times of suffering, but when we find ourselves in the situation in our lives where we feel that darkness has consumed all of our dreams, and then, a speck of light shines upon us. That is hope. It will always be there... to guide us...  
