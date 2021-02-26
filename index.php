@@ -10,7 +10,7 @@
 <h1 align="center">
 <MARQUEE><font face="monotype corsiva" color="black" size="6">
 “But let us who are of the day be sober, putting on the breastplate of faith and love, and as a helmet the hope of salvation.”</MARQUEE> </font>
-<br><font face="monotype corsiva" color="black" size="5"> 1 Thessalonians 5:8 </font></h1>
+<br><font face="monotype corsiva" color="black" size="5"><MARQUEE>1 Thessalonians 5:8 </font></h1></MARQUEE>
 <font face="times new roman" size="5"><b>________________________________________________________________________________________________________________</font></b>
 <p align="center">
 <img src="lighthouse.jpg" width ="200", length ="100">
